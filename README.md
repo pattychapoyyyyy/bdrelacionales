@@ -1,2 +1,2 @@
-# bdrelacionales
-Base de datos relacionales
+# Ryhanna Patricia Ramirez Montiel
+4AVP
